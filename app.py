@@ -67,51 +67,51 @@ def multiple_choice_survey():
 
     # Display Picture
     if selected_choice_3 == "Savior":
-        st.image("Pictures\\Christ as a Savior.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Savior.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Judge":
-        st.image("Pictures\\Christ as a Judge.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Judge.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Warrior":
-        st.image("Pictures\\Christ as a Warrior.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Warrior.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "King":
-        st.image("Pictures\\Christ as a King.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a King.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Prophet":
-        st.image("Pictures\\Christ as a Prophet.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Prophet.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Teacher":
-        st.image("Pictures\\Christ as a Teacher.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Teacher.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Healer":
-        st.image("Pictures\\Christ as a Healer.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Healer.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Friend":
-        st.image("Pictures\\Christ as a Friend.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Friend.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Creator":
-        st.image("Pictures\\Christ as Creator.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as Creator.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Son of God":
-        st.image("Pictures\\Christ as Son of God.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as Son of God.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Spirit":
-        st.image("Pictures\\Christ as a Spirit.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Spirit.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Birth":
-        st.image("Pictures\\Christ Mortal Birth.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ Mortal Birth.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Studying":
-        st.image("Pictures\\Christ Studying.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ Studying.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Carpenter":
-        st.image("Pictures\\Christ as a Carpenter.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as a Carpenter.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Miracles":
-        st.image("Pictures\\Christ as Miracle Worker.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ as Miracle Worker.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Sacrament":
-        st.image("Pictures\\Christ with the Sacrament.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ with the Sacrament.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Gethsemane":
-        st.image("Pictures\\Christ in Gethsemane.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ in Gethsemane.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Crucifixion":
-        st.image("Pictures\\Christ on the Cross.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ on the Cross.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Tomb": 
-        st.image("Pictures\\Christ in Tomb.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ in Tomb.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Resurrection":
-        st.image("Pictures\\Christ Resurrected.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ Resurrected.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Appearances": 
-        st.image("Pictures\\Christ Appearing.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ Appearing.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Americas":
-        st.image("Pictures\\Christ Visiting Americas.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ Visiting Americas.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Displaying Wounds":
-        st.image("Pictures\\Christ Displaying Wounds.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
+        st.image("Pictures/Christ Displaying Wounds.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
     elif selected_choice_3 == "Ascended Christ":
         st.image("Pictures/Christ as Ascended.jpg", caption=f"Picture for your selections: {selected_choice_1}, {selected_choice_2}, and {selected_choice_3}", use_column_width=True)
 
